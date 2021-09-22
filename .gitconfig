@@ -1,0 +1,7 @@
+[user]
+	name = Sebastian
+	email = walkingalchemy@gmail.com
+[alias]
+	happify = !sh -c \"ln -s ~/.git/hooks/post-{commit,update} .git/hooks\"
+	pus = push
+	remove = reset HEAD --
