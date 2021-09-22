@@ -96,4 +96,3 @@ prompt_context(){}
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 
-alias evdt="npm install && cd ios && pod install && cd .. && echo 'High Five!' && npm start"
